@@ -1,1 +1,3 @@
-Texto de prueba para probar init, Andres Chaparro de 25 años
+Texto de prueba para probar init, Andres Chaparro de 25 años,
+
+quiere aprender desarrollo web en platzi.
